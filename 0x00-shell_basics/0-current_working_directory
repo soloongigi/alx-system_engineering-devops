@@ -1,2 +1,2 @@
-1#!/bin/bash
-2 $ wc -l file
+/bin/bash
+wc -l file
